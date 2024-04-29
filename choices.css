@@ -1,0 +1,76 @@
+* {
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 10px;
+  opacity: 2;
+}
+.item-1 {
+  background-image: url(mullet.jpg);
+  text-align: center;
+  font-size: 27.9px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-2 {
+  background-image: url(taperfade.jpg);
+  text-align: center;
+  font-size: 34.8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-3 {
+  background-image: url(twoblock.jpg);
+  text-align: center;
+  font-size: 34.7px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-4 {
+  background-image: url(bursfade.jpg);
+  text-align: center;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-5 {
+  background-image: url(buzzcut.jpg);
+  text-align: center;
+  font-size: 27.9px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-6 {
+  background-image: url(dropfade.jpg);
+  text-align: center;
+  font-size: 27px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
+.item-7 {
+  background-image: url(blowouttaper.jpg);
+  text-align: center;
+  font-size: 19px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 9em 0 9em 0;
+}
